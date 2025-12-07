@@ -1,0 +1,78 @@
+{
+  "profile": {
+    "name": "Prachanda Oli",
+    "role": "Software Developer",
+    "location": "Lalitpur District, Nepal",
+    "email": "woliprachanda980@gmail.com",
+    "phone": "9848739827",
+    "linkedin": "https://linkedin.com/in/prachanda-oli-506b411ba",
+    "github": "https://github.com/prachanda980",
+    "summary": "Results-driven Software Developer with expertise in backend development, ERP systems, and full-stack application design. Experienced in Python/Django, .NET Framework, and Odoo ERP customization. Proven ability to optimize database queries, design REST APIs, and deliver scalable solutions."
+  },
+  "experience": [
+    {
+      "company": "Bajra Technologies",
+      "role": "Backend Developer Trainee & Team Lead",
+      "date": "March 2025 – June 2025",
+      "details": [
+        "Led the BTP Game Development Project, managing a team of developers.",
+        "Customized Odoo ERP modules using Python, ORM, and QWeb templating.",
+        "Optimized PostgreSQL queries reducing execution time via indexing strategies.",
+        "Designed RESTful APIs for communication between Odoo and external systems."
+      ]
+    },
+    {
+      "company": "AMNIL Technologies Pvt. Ltd.",
+      "role": ".NET Developer Intern",
+      "date": "March 2024 – May 2024",
+      "details": [
+        "Developed desktop apps using C# and .NET WinForms with MVC architecture.",
+        "Optimized SQL Server queries to improve application response time.",
+        " implemented business logic using Entity Framework and ADO.NET."
+      ]
+    }
+  ],
+  "projects": [
+    {
+        "title": "FashionBST - E-Commerce Search",
+        "tech": "FastAPI, BST (Binary Search Tree), SQLite, Docker, CI/CD",
+        "desc": "E-Commerce application for product management and fast, real-time prefix search using a custom Binary Search Tree (BST) implementation. Integrated with Docker and GitHub Actions for CI/CD."
+    },
+    {
+        "title": "Interactive Sales Analytics Dashboard",
+        "tech": "FastAPI, Pandas, Seaborn, Docker, CI/CD",
+        "desc": "Sales analytics dashboard for Walmart, visualizing trends and projections. Features a FastAPI backend, dynamic charts, REST API endpoints, and a Dockerized CI/CD pipeline."
+    },
+    {
+        "title": "Real-Time Messenger App",
+        "tech": "Django, Channels, WebSockets, Redis, Daphne",
+        "desc": "Full-featured chat app with real-time messaging, typing indicators, and online status using ASGI and WebSockets. Includes friend management and persistent chat history."
+    },
+    {
+        "title": "Tour Recommendation System",
+        "tech": "Python, Django, NumPy, Pandas",
+        "desc": "Personalized recommendation system using TF-IDF and cosine similarity for user preferences."
+    },
+    {
+        "title": "Public Library Resource Mgmt",
+        "tech": "Odoo 13, Python, QWeb",
+        "desc": "Managed books and loans with custom Client Actions and dynamic dashboards."
+    },
+    {
+        "title": "Book Management System",
+        "tech": "ASP.NET MVC, SQL Server",
+        "desc": "Repository pattern implementation with Entity Identity for secure authentication."
+    }
+],
+"skills": [
+    "Python", "C#", "JavaScript", "SQL", "Django", "FastAPI", 
+    ".NET Framework", "Odoo ERP", "PostgreSQL", "SQLite", 
+    "WebSockets", "Docker", "Pandas", "Numpy", "Jinja2",
+    "Data Structures (BST)", "Git", "Rest APIs", "CI/CD (GitHub Actions)"
+],
+"education": {
+    "degree": "B.Sc. in Information Technology(BSC-CSIT)",
+    "school": "Academia International College",
+    "year": "2019 – 2024"
+}
+}
