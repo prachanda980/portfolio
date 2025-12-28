@@ -28,51 +28,56 @@
       "details": [
         "Developed desktop apps using C# and .NET WinForms with MVC architecture.",
         "Optimized SQL Server queries to improve application response time.",
-        " implemented business logic using Entity Framework and ADO.NET."
+        "Implemented business logic using Entity Framework and ADO.NET."
       ]
     }
   ],
   "projects": [
     {
-        "title": "FashionBST - E-Commerce Search",
-        "tech": "FastAPI, BST (Binary Search Tree), SQLite, Docker, CI/CD",
-        "desc": "E-Commerce application for product management and fast, real-time prefix search using a custom Binary Search Tree (BST) implementation. Integrated with Docker and GitHub Actions for CI/CD."
+      "title": "High-Performance E-Commerce Platform",
+      "tech": "Django, Redis, Celery, Channels, Docker, PostgreSQL",
+      "desc": "Scalable sales system handling 1000+ concurrent users with row-level locking (concurrency control), real-time WebSocket inventory updates, and content-based product recommendations using TF-IDF."
     },
     {
-        "title": "Interactive Sales Analytics Dashboard",
-        "tech": "FastAPI, Pandas, Seaborn, Docker, CI/CD",
-        "desc": "Sales analytics dashboard for Walmart, visualizing trends and projections. Features a FastAPI backend, dynamic charts, REST API endpoints, and a Dockerized CI/CD pipeline."
+      "title": "FashionBST - E-Commerce Search",
+      "tech": "FastAPI, BST (Binary Search Tree), SQLite, Docker, CI/CD",
+      "desc": "E-Commerce application for product management and fast, real-time prefix search using a custom Binary Search Tree (BST) implementation. Integrated with Docker and GitHub Actions for CI/CD."
     },
     {
-        "title": "Real-Time Messenger App",
-        "tech": "Django, Channels, WebSockets, Redis, Daphne",
-        "desc": "Full-featured chat app with real-time messaging, typing indicators, and online status using ASGI and WebSockets. Includes friend management and persistent chat history."
+      "title": "Interactive Sales Analytics Dashboard",
+      "tech": "FastAPI, Pandas, Seaborn, Docker, CI/CD",
+      "desc": "Sales analytics dashboard for Walmart, visualizing trends and projections. Features a FastAPI backend, dynamic charts, REST API endpoints, and a Dockerized CI/CD pipeline."
     },
     {
-        "title": "Tour Recommendation System",
-        "tech": "Python, Django, NumPy, Pandas",
-        "desc": "Personalized recommendation system using TF-IDF and cosine similarity for user preferences."
+      "title": "Real-Time Messenger App",
+      "tech": "Django, Channels, WebSockets, Redis, Daphne",
+      "desc": "Full-featured chat app with real-time messaging, typing indicators, and online status using ASGI and WebSockets. Includes friend management and persistent chat history."
     },
     {
-        "title": "Public Library Resource Mgmt",
-        "tech": "Odoo 13, Python, QWeb",
-        "desc": "Managed books and loans with custom Client Actions and dynamic dashboards."
+      "title": "Tour Recommendation System",
+      "tech": "Python, Django, NumPy, Pandas",
+      "desc": "Personalized recommendation system using TF-IDF and cosine similarity for user preferences."
     },
     {
-        "title": "Book Management System",
-        "tech": "ASP.NET MVC, SQL Server",
-        "desc": "Repository pattern implementation with Entity Identity for secure authentication."
+      "title": "Public Library Resource Mgmt",
+      "tech": "Odoo 13, Python, QWeb",
+      "desc": "Managed books and loans with custom Client Actions and dynamic dashboards."
+    },
+    {
+      "title": "Book Management System",
+      "tech": "ASP.NET MVC, SQL Server",
+      "desc": "Repository pattern implementation with Entity Identity for secure authentication."
     }
-],
-"skills": [
+  ],
+  "skills": [
     "Python", "C#", "JavaScript", "SQL", "Django", "FastAPI", 
     ".NET Framework", "Odoo ERP", "PostgreSQL", "SQLite", 
     "WebSockets", "Docker", "Pandas", "Numpy", "Jinja2",
     "Data Structures (BST)", "Git", "Rest APIs", "CI/CD (GitHub Actions)"
-],
-"education": {
-    "degree": "B.Sc. in Information Technology(BSC-CSIT)",
+  ],
+  "education": {
+    "degree": "B.Sc. in Information Technology (BSC-CSIT)",
     "school": "Academia International College",
     "year": "2019 – 2024"
-}
+  }
 }
